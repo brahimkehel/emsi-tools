@@ -1,1 +1,2 @@
-some_basics of git
+ls -l
+**Strong** __Holberton school__
