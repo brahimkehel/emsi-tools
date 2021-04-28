@@ -1,2 +1,2 @@
 ls -l
-**Strong** __Holberton school__
+__Holberton school__
