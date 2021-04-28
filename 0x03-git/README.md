@@ -1,3 +1,1 @@
-ls -l
-
-__Holberton school__
+__git commands task__
